@@ -14,7 +14,7 @@ function IDCard () {
                 {
             name: 'Marija',
             lastName: 'Bujišić',
-            age: 23
+            age: 20
                 }
             ]);
           }, []); 
