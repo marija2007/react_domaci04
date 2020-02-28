@@ -59,7 +59,7 @@ export default function FullScreenDialog() {
             </Button>
           </Toolbar>
         </AppBar>
-        <div class="idCard">
+        <div className="idCard">
             <IDCard/>
         </div>
         
